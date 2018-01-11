@@ -1,0 +1,105 @@
+DECISION TREE:
+Dataset 1
+Average Accuracy: 92.32%
+Average Precision: 91.75%
+Average Recall: 88.16%
+Average F-measure: 0.897
+Dataset 2 
+Average Accuracy: 61.46%
+Average Precision: 44.41%
+Average Recall: 50.53%
+Average F-measure: 0.465
+
+
+RANDOM FOREST:
+
+For T = 3:
+
+Dataset 1
+Average Accuracy: 93.8736263736%
+Average Precision: 95.2346105334%
+Average Recall: 87.7426092426%
+Average F-measure: 0.912736777771
+Dataset 2 
+Average Accuracy: 65.1358695652%
+Average Precision: 50.6585417506%
+Average Recall: 42.1379410064%
+Average F-measure: 0.446889639402
+
+
+For T = 5:
+
+Dataset 1:
+Average Accuracy: 94.4093406593%
+Average Precision: 94.0401925661%
+Average Recall: 90.3438043438%
+Average F-measure: 0.920425167196
+Dataset 2:
+Average Accuracy: 66.1956521739%
+Average Precision: 50.2739890828%
+Average Recall: 40.8348274532%
+Average F-measure: 0.441509624215
+
+
+For T = 7:
+Dataset 1:
+Average Accuracy: 95.4807692308%
+Average Precision: 95.3576040541%
+Average Recall: 91.8273208273%
+Average F-measure: 0.933961316973
+Dataset 2:
+Average Accuracy: 61.0597826087%
+Average Precision: 42.2372488622%
+Average Recall: 36.0073581389%
+Average F-measure: 0.381801274774
+
+
+BOOSTING:
+For L = 3
+
+Dataset 1:
+Average Accuracy: 94.3598901099%
+Average Precision: 94.5639097744%
+Average Recall: 89.4881599882%
+Average F-measure: 0.918580674974
+Dataset 2:
+Average Accuracy: 62.7807971014%
+Average Precision: 46.603021978%
+Average Recall: 44.5418514234%
+Average F-measure: 0.445490690627
+
+For L = 5
+
+Dataset 1:
+Average Accuracy: 94.9697802198%
+Average Precision: 93.9670764664%
+Average Recall: 92.8438043438%
+Average F-measure: 0.931669966741
+Dataset 2:
+Average Accuracy: 63.8677536232%
+Average Precision: 50.4679732033%
+Average Recall: 42.5998088169%
+Average F-measure: 0.441160766161
+
+For L = 7
+Dataset 1:
+Average Accuracy: 94.2307692308%
+Average Precision: 94.3105124471%
+Average Recall: 90.4486069486%
+Average F-measure: 0.922025762629
+Dataset 2:
+Average Accuracy: 64.7554347826%
+Average Precision: 49.3432539683%
+Average Recall: 45.5873979821%
+Average F-measure: 0.463975935448
+
+
+
+
+
+
+
+
+
+
+
